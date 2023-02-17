@@ -1,12 +1,30 @@
 import './App.css';
-import Doughnut from './charts/Doughnut';
+import BarChart from './charts/BarChart';
 import DoughnutChart from './charts/DoughnutChart';
+import Words from './Words';
+
+
 function App() {
   return (
     <div className="App">
       <h1>Hello World!</h1>
       <DoughnutChart />
-      <Doughnut />
+      <Words />
+      <Words />
+      <Words />
+      <Words />
+      <Words />
+      <Words />
+      <Words />
+      <Words />
+      <Words />
+      <Words />
+      <Words />
+      <Words />
+      <Words />
+      <Words />
+      <BarChart />
+     
     </div>
   );
 }
